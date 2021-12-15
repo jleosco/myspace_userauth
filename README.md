@@ -1,24 +1,13 @@
-# README
+## Starter Project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Rails 6 API app with React frontend
 
-Things you may want to cover:
+### Libraries
+- devise_token_auth
+- React
+- react-router-dom (V6)
+- Faker
+- Rails (6.1.4)
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Setup Instructions
